@@ -5,6 +5,6 @@
 + Enable `Razor Templates` Module
 + Import `Carousel.xml`
 
-> This is a Bootstrap Carousel, so you must have Bootstrap installed to your Orchard Site.
+> Bootstrap 3 is already installed in [this](https://github.com/georgeroubie/bootstrap-3-orchard-cms-theme) head start Orchard CMS theme.
 
-> For more Orchard Tricks: https://orchardtricks.dotnest.com
+> Read more [here](https://medium.com/@george.roubie/orchard-cms-content-carousel-8dc33390cac7). 
